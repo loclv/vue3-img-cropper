@@ -1,0 +1,12 @@
+semi: true
+singleQuote: true
+printWidth: 80
+trailingComma: false
+semi: false
+overrides:
+  - files: "*.json"
+    options:
+      printWidth: 80
+  - files: "*.js"
+    options:
+      printWidth: 80
