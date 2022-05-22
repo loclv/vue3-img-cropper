@@ -9,6 +9,8 @@
       @change="change"
     />
   </div>
+
+  <HelloWorld  msg="Hello! 🍀" />
 </template>
 
 <script lang="ts" setup>
